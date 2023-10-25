@@ -32,6 +32,7 @@ const rotateKeyframes = keyframes`
     }
 `;
 
+console.log("testt");
 const LoadScreen = () => {
     return (
         <div css={style.layout}>
